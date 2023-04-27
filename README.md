@@ -20,4 +20,6 @@ When you run the software, the first thing that will be displayed is the main me
 ## Choose to Add a Recipe
 To use the other options in the main menu, you first need to add a recipe. Choose option 1 to add a recipe.
 
+## Enter the Number of Ingredients
+After choosing to add a recipe, you will be asked to enter the number of ingredients you want to add.
 
