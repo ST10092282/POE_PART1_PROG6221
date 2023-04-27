@@ -23,3 +23,23 @@ To use the other options in the main menu, you first need to add a recipe. Choos
 ## Enter the Number of Ingredients
 After choosing to add a recipe, you will be asked to enter the number of ingredients you want to add.
 
+## Enter Ingredient Details
+After entering the number of ingredients, you will be asked to enter the name, quantity, unit of measurement, number of steps, and description for each ingredient.
+
+## Return to the Main Menu
+After adding the steps and descriptions for the ingredients, you will be taken back to the main menu where you can choose other options.
+
+## Display the Full Recipe
+To view the full recipe and its information, choose option 2 in the main menu. This will display all the ingredients entered by the user with their names, quantities, unit of measurements, their steps, and description.
+
+## Scale the Ingredients Quantities
+To scale the ingredients quantities, choose option 3 in the main menu. You will be asked to enter the number of the recipe you want to scale and the scale factor.
+
+## Reset the Quantities
+To reset the quantities of the recipe, choose option 4 in the main menu. You will be asked if you are sure you want to reset the quantities.
+
+## Clear All the Data
+To clear all the data, choose option 5 in the main menu. You will be asked if you are sure you want to clear all the data.
+
+## Add a New Recipe
+After clearing the data, you will be directed back to the main menu and asked to add a new recipe again. Repeat the steps as required.
