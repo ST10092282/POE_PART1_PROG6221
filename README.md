@@ -14,3 +14,6 @@ Compile the source code by running the appropriate compiler command. This will c
 ## Run the Executable File
 Once the source code has been compiled, run the executable file by entering its name in the command prompt or terminal.
 
+## The Main Menu
+When you run the software, the first thing that will be displayed is the main menu. This menu will ask the user to choose between various options.
+
