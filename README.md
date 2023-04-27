@@ -17,3 +17,7 @@ Once the source code has been compiled, run the executable file by entering its 
 ## The Main Menu
 When you run the software, the first thing that will be displayed is the main menu. This menu will ask the user to choose between various options.
 
+## Choose to Add a Recipe
+To use the other options in the main menu, you first need to add a recipe. Choose option 1 to add a recipe.
+
+
