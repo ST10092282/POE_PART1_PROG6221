@@ -5,3 +5,6 @@ Before compiling and running the software, ensure that you have all the required
 ## Open the Command Prompt or Terminal
 To compile and run the software, you will need to open the command prompt or terminal on your computer.
 
+## Navigate to the Project Directory
+Navigate to the project directory where the software files are located using the 'cd' command in the command prompt or terminal.
+
