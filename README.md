@@ -11,3 +11,6 @@ Navigate to the project directory where the software files are located using the
 ## Compile the Source Code
 Compile the source code by running the appropriate compiler command. This will create an executable file that can be run on your computer.
 
+## Run the Executable File
+Once the source code has been compiled, run the executable file by entering its name in the command prompt or terminal.
+
