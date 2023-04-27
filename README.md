@@ -8,3 +8,6 @@ To compile and run the software, you will need to open the command prompt or ter
 ## Navigate to the Project Directory
 Navigate to the project directory where the software files are located using the 'cd' command in the command prompt or terminal.
 
+## Compile the Source Code
+Compile the source code by running the appropriate compiler command. This will create an executable file that can be run on your computer.
+
